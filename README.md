@@ -2,6 +2,8 @@
 
 Welcome to Pantheon, an educational platform designed to revolutionize how students learn by integrating gamification and artificial intelligence. Inspired by ancient mythology, Pantheon creates a unique learning experience where each subject is represented by a world ruled by a god symbolizing that field of knowledge.
 
+DEPLOYED IN  [PANTHEON DEPLOY](https://pantheon-space-app.web.app/about)
+
 ## Features
 
 * **Interactive Worlds** : Each subject is represented by a world, such as Ceres for biology and Apollo for physics, offering a dynamic and immersive learning environment.
@@ -29,7 +31,7 @@ For more information, visit the [Documentation](./documentation) folder.
 
 ## Experimentation
 
-Explore our experiments and prototypes in the [Experimentation]() folder.
+Explore our experiments and prototypes in the [Experimentation](./experimentation) folder.
 
 ## Web
 
