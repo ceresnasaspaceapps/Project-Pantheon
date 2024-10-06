@@ -1,4 +1,3 @@
-
 # Pantheon: Temple of Knowledge
 
 Welcome to Pantheon, an educational platform designed to revolutionize how students learn by integrating gamification and artificial intelligence. Inspired by ancient mythology, Pantheon creates a unique learning experience where each subject is represented by a world ruled by a god symbolizing that field of knowledge.
@@ -28,6 +27,10 @@ Pantheon is currently under development. Some of the features already implemente
 
 For more information, visit the [Documentation](./documentation) folder.
 
+## Experimentation
+
+To explore the experimental features and tests related to Pantheon, refer to the [experimentation](./experimentation) folder.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
@@ -39,4 +42,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 - Isabel María De La Higuera Mateos
 - Juan Antonio Rodríguez Martínez
 - Juan Barea Rojo
-- Pedro Benítez Gris
+- Pedro Bení
