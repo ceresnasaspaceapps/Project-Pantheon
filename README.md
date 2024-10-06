@@ -1,4 +1,3 @@
-
 # Pantheon: Temple of Knowledge
 
 Welcome to Pantheon, an educational platform designed to revolutionize how students learn by integrating gamification and artificial intelligence. Inspired by ancient mythology, Pantheon creates a unique learning experience where each subject is represented by a world ruled by a god symbolizing that field of knowledge.
@@ -31,6 +30,10 @@ For more information, visit the [Documentation](./documentation) folder.
 ## Experimentation
 
 Explore our experiments and prototypes in the [Experimentation]() folder.
+
+## Web
+
+Explore our web code and prototype in the [Web](./web) folder.
 
 ## Demo and Design
 
